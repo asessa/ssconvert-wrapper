@@ -1,0 +1,15 @@
+{
+  "name": "ssconvert-wrapper",
+  "version": "0.0.1",
+  "description": "A small wrapper around the ssconvert CLI",
+  "main": "lib/main.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/asessa/ssconvert-wrapper"
+  },
+  "author": "Andrea Sessa <andrea.sessa@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asessa/ssconvert-wrapper/issues"
+  }
+}
