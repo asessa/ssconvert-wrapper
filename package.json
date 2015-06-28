@@ -1,7 +1,7 @@
 {
   "name": "ssconvert-wrapper",
   "version": "0.0.1",
-  "description": "A small wrapper around the ssconvert CLI",
+  "description": "A small wrapper around ssconvert",
   "main": "lib/main.js",
   "repository": {
     "type": "git",
