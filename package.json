@@ -1,6 +1,6 @@
 {
   "name": "ssconvert-wrapper",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A small wrapper around ssconvert for node.js",
   "main": "lib/main.js",
   "repository": {

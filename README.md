@@ -10,7 +10,7 @@ npm install ssconvert-wrapper
 ### Usage
 
 ```
-var ssconver = require('ssconvert-wrapper');
+var ssconvert = require('ssconvert-wrapper');
 
 ssconvert.convert({
 	input: 'filename.csv',
@@ -25,8 +25,9 @@ ssconvert.convert({
 #### Options
 
 input: input filename (full path)
+
 inputType: (xls, xlsx, ods, csv, tsv)
+
 output: output filename (full path)
+
 outputType: (xls, xlsx, ods, csv, html)
-
-
